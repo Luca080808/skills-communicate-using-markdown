@@ -1,11 +1,6 @@
 # 
 
-```
-$ git init
-Initialized empty Git respository in /Users/skills/Projects/recipe-repository/.git/
-```
+- [] Turn on Github Pages
+- [] Outline my portfolio
+- [x] Introduce myself
 
-``` javascript
-var MyVar = "Hello, world!";
-```
-```
